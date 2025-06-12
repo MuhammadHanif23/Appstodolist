@@ -1,16 +1,6 @@
-# todolistapps
+Muhammad Hanif Fungsionalitas Aplikasi: - Sign in dan Sign Up - Menyimpan data tugas Teknologi Yang digunakan: flutter dan firebase Cara Menjalankan Aplikasi: 1. Sign in/sign up 2. Masukan List 3. klik tambah 4. Dapat edit atau hapus.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ScreenShoot:
+![image](https://github.com/user-attachments/assets/f366be01-4be3-43c4-b525-0d87357aeb26)
+![image](https://github.com/user-attachments/assets/77d30b1b-af37-4c24-a1a1-78e3b5000574)
+![image](https://github.com/user-attachments/assets/99e19691-ab56-408a-b604-e3e0a1b839b0)
