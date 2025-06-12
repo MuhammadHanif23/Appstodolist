@@ -1,0 +1,31 @@
+name: todolistapps
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.3
+  cloud_firestore: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/12.jpg
+    - assets/13.jpg
+    
+  uses-material-design: true
